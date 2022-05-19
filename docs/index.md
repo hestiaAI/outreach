@@ -1,6 +1,6 @@
 # Hestia.ai outreach
 
-[Hestia.ai](https://www.hestia.ai/en/about) are experts on data access and the flows and usages of personal data in today's world. We are keen to connect with investigative journalists and others attending [the Dataharvest event](https://dataharvest.eu/) to show you the* **powerful tools and techniques** you can use to investigate the digital landscape.
+[Hestia.ai](https://www.hestia.ai/en/about) are experts on data access and the flows and usages of personal data in today's world. We are keen to connect with investigative journalists and others attending [the Dataharvest event](https://dataharvest.eu/) to show you the **powerful tools and techniques** you can use to investigate the digital landscape.
 
 ## A demonstration: <br/>Does Google know you are at Dataharvest?
 
