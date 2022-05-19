@@ -21,7 +21,7 @@ git clone git@github.com:hestiaAI/outreach.git
 git fetch
 git pull
 ```
-4. Make whatever edits you need to make in `docs/index.md`. It is markdown with some embedded HTML. Styles are in `css/extra.css`. Images are loaded from `docs/img` and referenced as `./img/xxx.jpg`. Do not edit anything in the `site` directory.
+4. Make whatever edits you need to make in `docs/index.md`. It is markdown with some embedded HTML (thus you won't get full WYSIWYG if you edit on Github website). Styles are in `css/extra.css`. Images are loaded from `docs/img` and referenced as `./img/xxx.jpg`. Do not edit anything in the `site` directory.
 5. To test changes locally, run `mkdocs serve` and load `http://127.0.0.1:8000/outreach/` in your browser. As long as the script is still running, any changes saved to the source `.md` file will be updated automatically in the browser. New files and nav changes can be made in the `mkdocs.yml` file.
 6. When you are happy with locally testing your changes, you must build the mkdocs output. This writes HTML and other files to the `site` directory ready for deployment:
 `mkdocs build`
