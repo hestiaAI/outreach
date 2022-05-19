@@ -10,3 +10,6 @@ nav:
 theme:
   name: null
   custom_dir: 'cinder'
+
+extra_css:
+    - css/extra.css  
