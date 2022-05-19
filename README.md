@@ -36,7 +36,7 @@ git push
 ```
 git subtree push --prefix site origin gh-pages
 ```
-10. Wait anything from a few seconds to a few minutes for to Google to pick up the changes on the watched `gh-pages` branch update the website. Then you can visit https://hestiaai.github.io/outreach/ and you should see your changes. You may need to do a hard reload (Ctrl+F5 or Cmd+R).
+10. Wait anything from a few seconds to a few minutes for to Github to pick up the changes on the watched `gh-pages` branch update the website. Then you can visit https://hestiaai.github.io/outreach/ and you should see your changes. You may need to do a hard reload (Ctrl+F5 or Cmd+R).
 
 If further details on mkdocs is needed, see https://www.mkdocs.org/
 
