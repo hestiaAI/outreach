@@ -16,7 +16,7 @@ pip install mkdocs
 ```
 git clone git@github.com:hestiaAI/outreach.git
 ```
-3. Fetch the latest code:
+3. (subsequent times only) Change to the correct directory, then fetch the latest code:
 ```
 git fetch
 git pull
