@@ -94,5 +94,4 @@ You can find us:
 - [On Signal](https://signal.group/#CjQKIMcHxPUWtz3_m3-OPjLt_PaO2XUfvBqOBCUdq00mHjodEhDHri7O-DS9lNIL9YTdk0Mw)
 - [On Telegram](https://t.me/+B0TSoynMW7dmMWM0)
 
-Don't have Signal? Download it [here](https://signal.org/download/).<br/>
-Don't have Telegram? Download it [here](https://telegram.org/apps).
+You can also email us at contact@hestia.ai
