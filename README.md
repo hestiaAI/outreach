@@ -34,7 +34,7 @@ git add <files you have changed>
 git commit -m "<message about what you have changed>"
 git push
 ```
-8. Now you must deploy the generated files in the `site` directory to the `gh-pages` in order for them to be published via Github Pages at https://hestiaai.github.io/outreach:
+8. Now you must deploy the generated files in the `site` directory to the `gh-pages` branch in order for them to be published via Github Pages at https://hestiaai.github.io/outreach:
 ```
 git subtree push --prefix site origin gh-pages
 ```
